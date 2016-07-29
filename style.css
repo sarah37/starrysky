@@ -1,0 +1,14 @@
+#svgDiv {
+  position: absolute;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  background-color: #000;
+  overflow: hidden;
+}
+
+body {
+  background-color: #ccc;
+}
